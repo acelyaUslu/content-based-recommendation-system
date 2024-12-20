@@ -160,20 +160,3 @@ content_based_recommender("The Dark Knight Rises", cosine_sim, df)
 # sql sorgusu ile bir film izlendiğinde önerilecek film belli olacak.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
